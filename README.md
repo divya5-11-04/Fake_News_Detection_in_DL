@@ -28,9 +28,9 @@ python src/train.py
 
 📈 Results
 
-Accuracy: XX%
+Accuracy: 83%
 
-F1-score: YY%
+F1-score: 0.84
 
 Example predictions:
 
