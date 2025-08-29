@@ -22,8 +22,9 @@ Built with HuggingFace Transformers, PyTorch, and PyCaret.
 - PyCaret for quick ML experimentation
 
 ## 🚀 Training
-```bash
+
 python src/train.py
+
 
 📈 Results
 
